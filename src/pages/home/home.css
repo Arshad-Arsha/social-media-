@@ -1,0 +1,8 @@
+body {
+    font-family: Arial, sans-serif; /* Example font-family */
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0; /* Example background color */
+    min-height: 100vh; /* Minimum height of the viewport */
+    overflow-y: auto; /* Enable vertical scrolling */
+  }
