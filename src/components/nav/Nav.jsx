@@ -15,7 +15,7 @@ export default function Nav() {
                 {/*  .........NavArea Left............ */}
         <div className="nav-left">
           <Link to='/'>
-          <h3 className='logo'>NapaExtra</h3>
+          <h3 className='logo'>TrueScene</h3>
           </Link>
           <Link to='/'>
           <FontAwesomeIcon icon={faHome} />
